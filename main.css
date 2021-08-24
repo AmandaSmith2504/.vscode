@@ -14,7 +14,7 @@ body{
     outline:none!important; 
 } 
 .bg-black{ 
-    background: #000; 
+    background: rgb(40, 44, 48); 
 } 
 /*=========SLider========*/ 
 .carousel-item{ 
